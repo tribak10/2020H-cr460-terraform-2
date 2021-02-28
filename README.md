@@ -9,4 +9,4 @@ Fichier terraform pour création petit déploiement IaaS
   * DMZ pour le seveur web
 * règles de pare-feu
   * http 80
-  * ssh 22
+  * ssh 22 - [ ] 
